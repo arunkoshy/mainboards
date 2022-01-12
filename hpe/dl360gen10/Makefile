@@ -119,6 +119,7 @@ uroot:
 		github.com/u-root/u-root/cmds/core/pci \
 		github.com/u-root/u-root/cmds/core/dhclient \
 		github.com/u-root/u-root/cmds/core/rsdp \
+		github.com/u-root/u-root/cmds/core/kexec \
 		github.com/u-root/u-root/cmds/boot/*
 
 	cp /tmp/initramfs.linux_amd64.cpio .
